@@ -1,0 +1,217 @@
+[
+    {
+        "Name": "Ant",
+        "Description": "Diligence, order, discipline",
+        "Action": "Success through effort"
+    },
+    {
+        "Name": "Bat",
+        "Description": "Transition and Initiation",
+        "Action": "Let go of the old and create the new"
+    },
+    {
+        "Name": "Bear",
+        "Description": "Power, bravery, solitude",
+        "Action": "Go within and awaken your potential"
+    },
+    {
+        "Name": "Bee",
+        "Description": "Communication, success, productivity",
+        "Action": "Enjoy the sweetness of life"
+    },
+    {
+        "Name": "Butterfly",
+        "Description": "Transformation, joy, pleasure",
+        "Action": "Growth and change"
+    },
+    {
+        "Name": "Buffalo",
+        "Description": "Abundance, Gratitude, Manifesting",
+        "Action": "Right action, right path"
+    },
+    {
+        "Name": "Camel",
+        "Description": "Endurance, focus, commitment",
+        "Action": "Enjoy the journey"
+    },
+    {
+        "Name": "Cat",
+        "Description": "Magic, mystery, independence",
+        "Action": "Balance your energy"
+    },
+    {
+        "Name": "Crocodile",
+        "Description": "Motherhood, opportunity, efficiency",
+        "Action": "New knowledge and wisdom"
+    },
+    {
+        "Name": "Crow",
+        "Description": "Magic, creation, intelligence",
+        "Action": "Spiritual strength and manifesting "
+    },
+    {
+        "Name": "Deer",
+        "Description": "Innocence, grace, compassion",
+        "Action": "Be gentle with yourself and others"
+    },
+    {
+        "Name": "Dove",
+        "Description": "Peace, hope, prophecy",
+        "Action": "Look to the future"
+    },
+    {
+        "Name": "Dog",
+        "Description": "Loyalty, affection, protection",
+        "Action": "Unconditional love and faith"
+    },
+    {
+        "Name": "Dolphin",
+        "Description": "Harmony, sound, enjoyment",
+        "Action": "Breathe new life"
+    },
+    {
+        "Name": "Dragon",
+        "Description": "Fire, magical, abundance",
+        "Action": "Develop your strengths"
+    },
+    {
+        "Name": "Dragonfly",
+        "Description": "Reflection, lively, light",
+        "Action": "See through illusions"
+    },
+    {
+        "Name": "Eagle",
+        "Description": "Vision, power, freedom",
+        "Action": "Healing and spiritual growth"
+    },
+    {
+        "Name": "Elephant",
+        "Description": "Loyalty, affection, dignity",
+        "Action": "Inner wisdom and strength"
+    },
+    {
+        "Name": "Fox",
+        "Description": "Clever, curious, playful",
+        "Action": "Learn new skills"
+    },
+    {
+        "Name": "Frog",
+        "Description": "Transformation, sensitivity, cleansing",
+        "Action": "Own your creative power"
+    },
+    {
+        "Name": "Grasshopper",
+        "Description": "Success, leaps forward",
+        "Action": "Trust your instincts"
+    },
+    {
+        "Name": "Giraffe",
+        "Description": "Communication, farsightedness, patience",
+        "Action": "New perceptions"
+    },
+    {
+        "Name": "Horse",
+        "Description": "Freedom, journey, power",
+        "Action": "New directions"
+    },
+    {
+        "Name": "Hummingbird",
+        "Description": "Independent, playful, wisdom",
+        "Action": "Find joy in everything you do"
+    },
+    {
+        "Name": "Kangaroo",
+        "Description": "Stamina, strength, movement",
+        "Action": "Abundance of energy"
+    },
+    {
+        "Name": "Koala",
+        "Description": "Rest, calm, kindness",
+        "Action": "Be present"
+    },
+    {
+        "Name": "Lion",
+        "Description": "Pride, courage, wisdom",
+        "Action": "Trust your intuition and imagination"
+    },
+    {
+        "Name": "Lizard",
+        "Description": "Dreams, spirituality, quick",
+        "Action": "Psychic abilities"
+    },
+    {
+        "Name": "Orangutan",
+        "Description": "Gentle, intelligent, wise",
+        "Action": "Calm and relaxed"
+    },
+    {
+        "Name": "Otter",
+        "Description": "Lively, cheerful, happiness",
+        "Action": "Have fun and play"
+    },
+    {
+        "Name": "Owl",
+        "Description": "Wisdom, vision, magic",
+        "Action": "See and hear what is not being said"
+    },
+    {
+        "Name": "Panda",
+        "Description": "Peace, balance, diplomacy",
+        "Action": "Your feelings matter"
+    },
+    {
+        "Name": "Peacock",
+        "Description": "Beauty, protection, watchful",
+        "Action": "Laugh at life"
+    },
+    {
+        "Name": "Penguin",
+        "Description": "Lucid dreaming, adaptable, discipline",
+        "Action": "Positive change"
+    },
+    {
+        "Name": "Rabbit",
+        "Description": "Fertility, prosperity, cleverness",
+        "Action": "Recognise opportunities"
+    },
+    {
+        "Name": "Snake",
+        "Description": "Power, transformation, magic",
+        "Action": "Change and healing"
+    },
+    {
+        "Name": "Swan",
+        "Description": "Power, beauty, grace",
+        "Action": "See the beauty within self and others"
+    },
+    {
+        "Name": "Spider",
+        "Description": "Creative, patience, balance",
+        "Action": "Write your own story"
+    },
+    {
+        "Name": "Tiger",
+        "Description": "Power, adventure, devotion",
+        "Action": "Express your life passion"
+    },
+    {
+        "Name": "Turtle",
+        "Description": "Longevity, slow down, abundance",
+        "Action": "Connection to all"
+    },
+    {
+        "Name": "Unicorn",
+        "Description": "Magic, innocence, purity",
+        "Action": "Happiness in body, mind and soul"
+    },
+    {
+        "Name": "Whale",
+        "Description": "Inspiration, sensitive, inner depth",
+        "Action": "Create with wonder"
+    },
+    {
+        "Name": "Wolf",
+        "Description": "Loyalty, harmony, discipline",
+        "Action": "Create and direct your life"
+    }
+]
